@@ -1,3 +1,3 @@
-# semua yang telah diubah akan ditampilkan disini :
+# CHANGE LOG :
 # database di phpmyadmin telah di buat
 # tampilan awal dibuat
